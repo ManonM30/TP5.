@@ -1,0 +1,5 @@
+chien,2,carnivore,4,Arthus
+human,23,omnivore,2,Theo
+lezard,2,ominvore,4,rambo
+poisson,12,omnivore,2,eliot
+human,12,omnivore,2,Manon
