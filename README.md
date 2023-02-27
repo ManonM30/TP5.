@@ -9,6 +9,6 @@ De plus, il met à jour une listbox contenant les noms des individus présents d
 controller.py permet au script model.py et vue.py d'intéragir.
 
 
-#Lancement du script 
+# Lancement du script 
 
 Lancer le script controller.py
